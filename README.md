@@ -1,10 +1,11 @@
 Hi 👋 My name is Muaz Hazali
 ============================
 
-Student | Interested in Data Analyst Role
+Bachelor in IT | Interested in Data Analyst Role
 -----------------------------------------
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
+* 👨‍🎓  I'm studying in UiTM Arau, Perlis
 * 🖥️  See my portfolio at [Muaz's Portfolio](http://muaz-hazali.notion.site/muaz-hazali/Muaz-s-Portfolio-41cecd9551da4bed8626c868294d2bda)
 * ✉️  You can contact me at [mdmuaz3010@gmail.com](mailto:mdmuaz3010@gmail.com)
 * 🧠  I'm learning R language
