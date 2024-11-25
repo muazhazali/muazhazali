@@ -33,21 +33,19 @@
 </p>
 <br><br>
 
-<!-- Start of Vertical Layout -->
+
 <div align="center">
-    <!-- Most Used Languages -->
+
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muazhazali&show_icons=true&locale=en&layout=compact" alt="muazhazali's Most Used Languages" />
     </p>
     <br>
 
-    <!-- GitHub Stats -->
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=muazhazali&show_icons=true&locale=en" alt="muazhazali's GitHub Stats" />
     </p>
     <br>
 
-    <!-- Streak Stats -->
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=muazhazali" alt="muazhazali's GitHub Streak Stats" />
     </p>
