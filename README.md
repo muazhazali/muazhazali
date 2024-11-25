@@ -28,9 +28,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/muazhazali"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="muazhazali" /></a></p><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muazhazali&show_icons=true&locale=en&layout=compact" alt="muazhazali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muazhazali&show_icons=true&locale=en&layout=compact" alt="muazhazali" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muazhazali&show_icons=true&locale=en" alt="muazhazali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muazhazali&show_icons=true&locale=en" alt="muazhazali" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muazhazali&" alt="muazhazali" /></p>
 
