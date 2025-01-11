@@ -9,7 +9,7 @@
 
 - 📍 Based in **Kuala Lumpur, Malaysia**
 
-- 🤝 Currently a **Data Analyst Intern at Decathlon Malaysia**
+- 🤝 Currently a **Looking for Data Analyst Position**
 
 - 👨‍💻 See my portfolio at [https://bit.ly/Portfolio-Muaz](https://bit.ly/Portfolio-Muaz)
 
