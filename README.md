@@ -5,7 +5,7 @@
 
 - 🔭 I studied in **UiTM Arau, Perlis**
 
-- 🌱 I’m currently learning **R Language, AWS, Azure**
+- 🌱 I’m currently learning **R Language, React, Vue.js, AWS, Azure**
 
 - 📍 Based in **Kuala Lumpur, Malaysia**
 
