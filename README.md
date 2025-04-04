@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muazhazali&label=Profile%20views&color=0e75b6&style=flat" alt="muazhazali" /> </p>
 
-- 🔭 I studied in **UiTM Arau, Perlis**
+- 🔭 I studied in **UiTM Arau, Perlis** (Degree in Information Technology)
 
 - 🌱 I’m currently learning **R Language, React, Vue.js, AWS, Azure**
 
